@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">🔭 I’m working on Gen AI Softwares<br><br>🌱 I’m learning AgenticAI system<br><br>👯 I’m looking to collaborate on AI Software Projects<br><br>🤝 I’m looking for help with Artificial Intelligence and Machine Learning.</p>
+<p align="left">👨‍💻 Software Developer in Product Based Company🔭 I’m working on Gen AI Softwares<br><br>🌱 I’m learning AgenticAI system<br><br>👯 I’m looking to collaborate on AI Software Projects<br><br>🤝 I’m looking for help with Artificial Intelligence and Machine Learning.</p>
 
 ###
 
