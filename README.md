@@ -99,7 +99,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at https://yashuportfolio.lovable.app/<br><br>📫 How to reach me yashu65work@gmail.com</p>
+<p align="left">👨‍💻 All of my projects are available at https://yashudeveloper.vercel.app/<br><br>📫 How to reach me yashu65work@gmail.com</p>
 
 ###
 
